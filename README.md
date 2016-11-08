@@ -5,10 +5,10 @@ Tool to list AWS IAM user access keys from a given account
 
 - ruby version 2.2.4
 
-Gems - 
+Setup - 
 ```sh
-$ gem install aws-sdk
-$ gem install trollop
+$ gem install bundler
+$ bundle install
 ```
 
 
