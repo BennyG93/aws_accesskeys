@@ -4,6 +4,7 @@ Tool to list AWS IAM user access keys from a given account
 ##### Setup:
 
 ```sh
+$ cd aws_accesskeys/
 $ gem install bundler
 $ bundle install
 ```
