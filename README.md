@@ -1,18 +1,15 @@
 # AWS Accesskeys
 Tool to list AWS IAM user access keys from a given account
 
-### Required:
+##### Setup:
 
-- ruby version 2.2.4
-
-Setup - 
 ```sh
 $ gem install bundler
 $ bundle install
 ```
 
 
-### Usage: 
+##### Usage: 
 
 ```sh
 $ ruby user_keys.rb -h
